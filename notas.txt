@@ -16,6 +16,6 @@ Html dara la estructura a la pagina
 
 Css le dara los estilos, la estetica
 
-JS le dara la funcionalidad, animacion, interaccion, etc 
+JS le dara la funcionalidad, animacion, interaccion, etc.- 
 
 
