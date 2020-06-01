@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tipos de Datos</title>
+</head>
+
+<body>
+
+    <p id="Entero"></p>
+    <p id="String"></p>
+    <p id="Booleano"></p>
+    <p id="Array"></p>
+    <p id="Object"></p>
+    <p></p>
+    <script>
+        //Tipos de Datos
+
+        var x = 5 //Entero
+        var y = 2
+
+        var texto = "Cadena" //String
+
+        var z = (x > y) //Booleano 
+
+        var array = ["Jaime", "Marion", "Amaro"] //Tipo Array
+
+        var obj = { PrimerNombre: "Jaime", SegundoNombre: "Sandoval" } //Tipo Object
+
+        //typeof Operador para saber el tipo de dato  de un elemento
+
+        document.getElementById("Entero").innerHTML = "Tipo Entero: " + x
+        document.getElementById("String").innerHTML = "Tipo String: " + texto
+        document.getElementById("Booleano").innerHTML = "Tipo Booleano: " + z
+        document.getElementById("Array").innerHTML = "Tipo Array: " + array[1]
+        document.getElementById("Object").innerHTML = "Tipo Object: " + obj["SegundoNombre"]
+
+
+    </script>
+
+</body>
+
+</html>
