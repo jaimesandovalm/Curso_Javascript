@@ -18,5 +18,4 @@ Css le dara los estilos, la estetica
 
 JS le dara la funcionalidad, animacion, interaccion, etc 
 
-Plugins recomendados
 
