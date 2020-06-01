@@ -1,0 +1,22 @@
+Curso Completo de Javascript
+
+Lenguajes a aprender
+
+react Javascript
+pyton
+
+Javascript
+
+Es un lenguaje interpetado por los navegadores para dar funcionalidad e interactividad
+a las paginas y aplicaciones web
+
+Es un lenguaje interpretado, no compilado
+
+Html dara la estructura a la pagina
+
+Css le dara los estilos, la estetica
+
+JS le dara la funcionalidad, animacion, interaccion, etc 
+
+Plugins recomendados
+
