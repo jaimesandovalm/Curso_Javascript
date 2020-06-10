@@ -19,3 +19,18 @@ Css le dara los estilos, la estetica
 JS le dara la funcionalidad, animacion, interaccion, etc.- 
 
 
+Eventos
+
+onchange() = se a cambiado un elemento html
+
+onclick() = el usuario hace click en un elemento html
+
+onmouseover() = el usuario mueve el mouse sobre un elemento html
+
+onmouseout() = el usuario aleja el mouse de un elemento html
+
+onkeydown() = el usuario presiona una tecla del teclado
+
+onload() = el navegador a terminado de cargar la pagina
+
+

@@ -3,3 +3,11 @@ Sintaxis de JS
 document.getElementById("id") /*Obtener el id de una etiqueta en el html*/
 
 typeof /*Operador para saber el tipo de dato  de un elemento*/
+
+document.write() /*Nos Sirve Para Realizar pruebas
+
+window.alert() /*Nos manda una alerta en el navegador*/
+
+console.log() /*Nos muestra por consola(navegador) el resultado*/
+
+windows.print() /*Nos permite imprimir la ventana actual*/
